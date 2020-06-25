@@ -1,0 +1,25 @@
+.header {
+    height: 10vh;
+    background-color: #30364e;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.listWrapper {
+    display: flex;
+    list-style: none;
+    margin-right: 1rem;
+}
+.listWrapper > li {
+    padding-left: 1rem;
+}
+
+.listWrapper > li:hover {
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
+.logoWrapper {
+    font-size: 2rem;
+    margin-left: 1rem;
+}
