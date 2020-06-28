@@ -1,0 +1,22 @@
+.TradesWrapper {
+    height: 86vh;
+    color: gray;
+    width: 25%;
+    background-color: white;
+    border-right: 2px solid #e4ebee;
+}
+.CardWrapper {
+    border-bottom: 1px solid #e4ebee;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Heading {
+    color: black;
+    margin: 10px 0 0;
+}
+
+.Paid {
+    color: greenyellow;
+}

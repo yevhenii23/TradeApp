@@ -1,0 +1,37 @@
+.chatWrapper {
+    background-color: #f6f7fb;
+}
+
+.container {
+    border: 2px solid #dedede;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    color: black;
+    width: 50vw;
+}
+
+.chatInfo {
+    margin: auto;
+    width: 90%;
+    color: black;
+    text-align: center;
+    border-bottom: 1px solid #dedede;
+}
+
+.iconTrash {
+    margin-top: 1rem;
+    height: 40px;
+    width: 40px;
+}
+
+.formWrapper > input {
+    border: 2px solid #dedede;
+    width: calc(100% - 8px);
+    height: 40px;
+}
+.formWrapper > a {
+    color: greenyellow;
+    margin-left: -70px;
+}
